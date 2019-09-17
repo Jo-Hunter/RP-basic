@@ -9,5 +9,11 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+        <ListBox>
+            <local:MyUserControl1/>
+            <local:MyUserControl1/>
+        </ListBox>
+        
+
     </Grid>
 </Page>
